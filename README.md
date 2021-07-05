@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam
 - 👀 I’m interested in Spring development, ML and Deep Learning, competetive programming
 - 🌱 I’m currently learning Spring, React, Keras/TensorFlow
-- 💞️ I’m looking to collaborate on ...
+- :arrow_forward: - deployed projects 
 - 📫 sidorovichva@gmail.com
 
 <!---
