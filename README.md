@@ -1,6 +1,6 @@
 - Hi, I’m Adam
-- I’m interested in Spring development, competetive programming and algorithms 
-- I’m currently learning Spring Boot, React.js, Keras/TensorFlow
+- I’m interested in Java/Spring back-end development, React front-end development and competetive programming 
+- I’m currently learning Spring Cloud
 - :white_check_mark: - finished projects; :arrow_forward: - deployed projects; :construction: - work in progress;
 - sidorovichva@gmail.com
 
