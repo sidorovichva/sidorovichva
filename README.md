@@ -1,5 +1,5 @@
 - Hi, I’m Adam
-- I'm interested in Data / ML Engineering, DataScience, Backend Dev
+- I'm interested in Data / ML Engineering, Data Science, Backend Dev
 - Java, Python, Scala
 
 <!---
