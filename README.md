@@ -1,6 +1,6 @@
 Hi, I’m Adam!
 
-I work as an ML Engineer and I'm interested in Data Engineering, Data Science and MLOps.
+I work as an ML Engineer and I'm interested in Data Engineering, Data Science and MLOps and DevOps.
 
 I'm proficient in Java and Python, have some working experience with Scala and very passionate about starting to use Rust for my new data related projects.
 
